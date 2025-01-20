@@ -1,0 +1,11 @@
+Practica1 "AGENDA DE CONTACTOS" en Vue3
+
+Nombre(s) de integrante(s):
+
+FABIOLA ZAMBRANA SORIA
+CI:6873182 LP
+CELULAR: 67115046
+
+Pasos para iniciar el proyecto
+1) npm install
+2) npm run serve
